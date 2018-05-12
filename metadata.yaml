@@ -1,0 +1,32 @@
+_repo: Famous-Singers-of-To-day-and-Yesterday_33168
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33168-h/images/ill_book_cover.jpg
+creator:
+  author:
+    agent_name: Lahee, Henry Charles
+    birthdate: 1856
+    deathdate: 1953
+    gutenberg_agent_id: '5731'
+    url: http://www.gutenberg.org/2009/agents/5731
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Lahee
+description: ''
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33168'
+  lccn: '98001333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Singers'
+tableOfContents: From 1600 to 1800 A.D. -- Pasta to Mario -- Mario to Tietiens --
+  Prima Donnas of the fifties [1850s] -- Prima Donnas of the sixties [1860s] -- Prima
+  Donnas of the seventies [1870s] -- Prima Donnas of the eighties [1880s] -- Tenors
+  and baritones -- Contraltos and bassos -- Chronological table of famous singers.
+title: Famous Singers of To-day and Yesterday
+url: http://www.gutenberg.org/ebooks/33168
